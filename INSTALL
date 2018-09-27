@@ -1,0 +1,9 @@
+Building Kazucoin
+
+See doc/readme-qt.rst for instructions on building Kazucoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Kazucoin.
+
+See doc/build-*.txt for instructions on building kazucoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Kazucoin.
